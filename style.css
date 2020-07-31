@@ -1,0 +1,15 @@
+@media (max-width: 1000px) {
+    .row {   
+      flex-direction: column;
+    }
+  }
+
+.navbar-brand{
+    margin-right: 40px;
+}
+
+.profile_section{
+    background-image: url("image/profilebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

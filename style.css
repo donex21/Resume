@@ -4,6 +4,10 @@
     }
   }
 
+  body{
+    background-color: #E8FFFF;
+  }
+
 .navbar-brand{
     margin-right: 40px;
 }
@@ -14,7 +18,7 @@
     background-size: cover;
 }
 .card {
-  margin: 0 auto; /* Added */
-  float: none; /* Added */
-  margin-bottom: 10px; /* Added */
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
 }
